@@ -154,7 +154,8 @@
         "pathConstraints": true
       },
       "ID": 1,
-      "description": "This malicious flow reads a received SMS and uploads it to an HTTP Server."
+      "description": "This malicious flow reads a received SMS and uploads it to an HTTP Server.",
+      "isNegative": false
     },
     {
       "source": {
@@ -243,7 +244,8 @@
         "threading": true
       },
       "ID": 2,
-      "description": "This malicious flow reads the IMEI and uploads it to an HTTP Server."
+      "description": "This malicious flow reads the IMEI and uploads it to an HTTP Server.",
+      "isNegative": false
     }
   ]
 }
