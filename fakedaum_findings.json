@@ -21,7 +21,7 @@
         "statement": "return processResponse(HttpClientManager.getHttpClient().execute(request), clazz);",
         "methodName": "public T post(HttpPost request, String url, Map<String, String> data, Class<T> clazz)",
         "className": "com.mvlove.http.HttpWrapper",
-        "lineNo": 657,
+        "lineNo": 667,
         "targetName": "execute",
         "targetNo": 1,
         "IRs": [
@@ -176,7 +176,7 @@
         "statement": "return processResponse(HttpClientManager.getHttpClient().execute(request), clazz);",
         "methodName": "public T post(HttpPost request, String url, Map<String, String> data, Class<T> clazz)",
         "className": "com.mvlove.http.HttpWrapper",
-        "lineNo": 657,
+        "lineNo": 667,
         "targetName": "execute",
         "targetNo": 1,
         "IRs": [
